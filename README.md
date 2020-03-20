@@ -1,6 +1,7 @@
 # Jogo Aprendendo Inglês
 
-Um jogo simples de tradução de palavras de português para inglês baseado em um curso realizado.
+Um jogo simples de tradução de palavras de português para inglês baseado em um curso realizado que está hospedado neste link:
+https://haraheique.github.io/jogo-aprendendo-ingles/
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.21.
 
