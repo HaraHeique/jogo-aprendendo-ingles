@@ -1,0 +1,7 @@
+nav.navbar {
+    background: #1CB0F6;
+}
+    nav.navbar span {
+        color: white;
+        font-weight: bold;
+    }
