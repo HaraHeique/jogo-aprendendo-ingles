@@ -2,6 +2,7 @@
   "name": "app1",
   "version": "0.0.0",
   "scripts": {
+    "deploy": "ng build --prod --base-href https://haraheique.github.io/jogo-aprendendo-ingles/ && angular-cli-ghpages --branch gh-pages",
     "ng": "ng",
     "start": "ng serve",
     "build": "ng build",
